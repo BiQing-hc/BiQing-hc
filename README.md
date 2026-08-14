@@ -5,18 +5,18 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-FF6B35?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/AI_Agents-FF6B35?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" />
 </p>
 
 ## 🔭 我在做什么
 
 - 🤖 **AI Agent 工程化**：探索 Agent Skills、多平台记忆同步与自动化工作流
 - 🎬 **AI 内容生成管线**：小说 → 脚本 → 视频的全流程自动化
-- 🛠️ **全栈开发**：Next.js + GoFrame + MySQL 的监管平台级应用实践
+- 🛠️ **全栈开发**：Next.js + GoFrame + MySQL 的平台级应用实践
 
 ## 🚀 精选项目
 
@@ -29,7 +29,7 @@
 ## 📊 统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BiQing-hc&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BiQing-hc&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
 </p>
 
 ## 📫 联系我
