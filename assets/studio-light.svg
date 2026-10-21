@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="266" viewBox="0 0 1280 266" role="img" aria-labelledby="title desc">
+<title id="title">BiQing — Design, build, make it useful.</title>
+<desc id="desc">BiQing's product studio. AI applications, full stack engineering, and product design.</desc>
+<defs><pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#536786" opacity=".15"/></pattern></defs>
+<rect x="1" y="1" width="1278" height="264" rx="22" fill="#EFF5FF" stroke="#CAD6EC"/>
+<path d="M796 1H1258Q1279 1 1279 22V244Q1279 265 1258 265H718Z" fill="url(#dots)"/>
+<g font-family="Verdana, sans-serif" font-size="13" letter-spacing="2" fill="#536786"><text x="52" y="48">AI APPLICATIONS / FULL STACK</text></g>
+<text x="45" y="160" font-family="'Avenir Next', 'Trebuchet MS', sans-serif" font-size="108" font-weight="700" letter-spacing="-5" fill="#172A4B">BiQing<tspan fill="#18A5A1">.</tspan></text>
+<g fill="#536786" font-family="Verdana, sans-serif" font-size="14" letter-spacing="1.1"><text x="52" y="216">IDEAS INTO EVERYDAY PRODUCTS</text></g>
+<path d="M530 135H678M666 126L679 135L666 144" stroke="#536786" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<g font-family="'Avenir Next', 'Trebuchet MS', sans-serif" font-size="35" font-weight="600" fill="#172A4B">
+<text x="765" y="87">Design it.</text><text x="765" y="135">Build it.</text><text x="765" y="183">Make it useful.</text></g>
+<g><circle cx="1144" cy="80" r="8" fill="#FDBF7E"/><circle cx="1166" cy="80" r="8" fill="#B8A5F8"/><circle cx="1144" cy="102" r="8" fill="#73BEE9"/><circle cx="1166" cy="102" r="8" fill="#74C6B8"/></g>
+</svg>
