@@ -1,37 +1,49 @@
-<h1 align="center">Hi 👋 我是 BiQing</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BiQing-hc/BiQing-hc/main/assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BiQing-hc/BiQing-hc/main/assets/hero-light.svg" />
+  <img alt="BiQing — Make ideas work. AI Agent、全栈应用与创作系统。" src="https://raw.githubusercontent.com/BiQing-hc/BiQing-hc/main/assets/hero-light.svg" width="100%" />
+</picture>
 
-<p align="center">
-  AI 应用工程实践者 · 全栈开发者 · 数字分身构建中
-</p>
+# 你好，我是 BiQing
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/AI_Agents-FF6B35?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" />
-</p>
+**AI 应用工程实践者 · 全栈开发者**
 
-## 🔭 我在做什么
+把 AI 的可能，做成日常可用。我的实践围绕三件事展开：让技能与知识在 AI 工具间流动，把想法落成完整应用，探索从文字到影像的创作流程。
 
-- 🤖 **AI Agent 工程化**：探索 Agent Skills、多平台记忆同步与自动化工作流
-- 🎬 **AI 内容生成管线**：小说 → 脚本 → 视频的全流程自动化
-- 🛠️ **全栈开发**：Next.js + GoFrame + MySQL 的平台级应用实践
+[开源项目](https://github.com/BiQing-hc?tab=repositories) &nbsp; / &nbsp; [技术博客](https://github.com/BiQing-hc/BiQing_Blog) &nbsp; / &nbsp; [邮件联系](mailto:2279567793@qq.com)
 
-## 🚀 精选项目
+## 精选项目
 
-| 项目 | 简介 |
-|---|---|
-| [ai-sync-desktop](https://github.com/BiQing-hc/ai-sync-desktop) | 跨 23 个 AI 平台同步 skills / 记忆 / 自动化的桌面工具（Electron） |
-| [consciousness-boundary](https://github.com/BiQing-hc/consciousness-boundary) | AI 视频生成：小说到脚本到视频的完整管线 |
-| [BiQing_Blog](https://github.com/BiQing-hc/BiQing_Blog) | 个人博客 |
+### [AI Sync Desktop ↗](https://github.com/BiQing-hc/ai-sync-desktop)
 
-## 📊 统计
+让不同 AI 编程工具，共用一套经过整理的技能与知识。
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BiQing-hc&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
-</p>
+通过中立共享资料库，向 Codex、CodeBuddy、Qoder、Trae 等工具增量分发可移植技能、项目规则与人工确认的记忆。围绕同步预览、冲突保护与备份回滚，减少重复配置。
 
-## 📫 联系我
+`Electron` `JavaScript` `Agent Skills`
 
-- 📮 邮箱：2279567793@qq.com
+### [意识边界 · Consciousness Boundary ↗](https://github.com/BiQing-hc/consciousness-boundary)
+
+从一部原创科幻小说出发，探索 AI 辅助影像创作。
+
+将小说、分集脚本与视频提示词串成可复用的 Python 工作流，面向竖屏和横屏内容创作。目前已完成部分小说、分集脚本及镜头提示词，视频制作持续推进。
+
+`Python` `AI Workflow` `Storytelling`
+
+### [BiQing Blog ↗](https://github.com/BiQing-hc/BiQing_Blog)
+
+个人博客项目，记录开发与学习。
+
+`JavaScript` `Blog`
+
+## 常用技术
+
+| 方向 | 工具 |
+| :--- | :--- |
+| 应用与界面 | TypeScript · Next.js · Electron |
+| 服务与数据 | Go · GoFrame · MySQL |
+| 自动化与 AI | Python · Agent Skills · 工作流编排 |
+
+---
+
+如果你也在探索 **AI 工具、Agent 工作流或内容自动化**，欢迎 [发邮件聊聊 ↗](mailto:2279567793@qq.com)。

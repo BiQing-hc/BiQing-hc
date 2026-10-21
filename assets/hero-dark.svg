@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="384" viewBox="0 0 1280 384" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">BiQing — Make ideas work.</title>
+  <desc id="desc">A teal engineering workspace with three connected, floating layers for agents, applications, and stories.</desc>
+  <defs>
+    <linearGradient id="wash" x1="716" y1="0" x2="1260" y2="384" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A666C" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#9AABF5" stop-opacity=".09"/>
+    </linearGradient>
+    <linearGradient id="plane" x1="842" y1="90" x2="1079" y2="226" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A4D59"/>
+      <stop offset="1" stop-color="#123F4B"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#A3C1CC" opacity=".17"/>
+    </pattern>
+    <clipPath id="bounds"><rect x="1" y="1" width="1278" height="382" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1280" height="384" fill="#0C2935"/>
+    <path d="M754 0H1280V384H656L754 0Z" fill="url(#wash)"/>
+    <path d="M754 0H1280V384H656L754 0Z" fill="url(#grid)"/>
+    <path d="M733 0L636 384" stroke="#294B59"/>
+    <rect x="58" y="48" width="8" height="8" rx="2" fill="#70DDD0"/>
+    <text x="80" y="57" fill="#A3C1CC" font-family="Verdana, sans-serif" font-size="13" letter-spacing="2.2">BIQING / BUILDING WITH AI</text>
+    <text x="52" y="178" fill="#ECF7FA" font-family="'Avenir Next', 'Trebuchet MS', sans-serif" font-size="112" font-weight="700" letter-spacing="-6">BiQing<tspan fill="#70DDD0">.</tspan></text>
+    <text x="59" y="235" fill="#ECF7FA" font-family="'Avenir Next', 'Trebuchet MS', sans-serif" font-size="34" font-weight="500" letter-spacing="-.7">Make ideas work.</text>
+    <path d="M60 282H577" stroke="#294B59"/>
+    <g fill="#A3C1CC" font-family="Verdana, sans-serif" font-size="12" letter-spacing="1.4">
+      <text x="60" y="322">AI AGENTS</text>
+      <text x="203" y="322">FULL STACK</text>
+      <text x="359" y="322">CREATIVE SYSTEMS</text>
+    </g>
+    <g fill="#70DDD0"><circle cx="178" cy="317" r="2"/><circle cx="334" cy="317" r="2"/></g>
+
+    <g stroke-linejoin="round">
+      <path d="M823 245L968 162L1113 245L968 328L823 245Z" fill="#9AABF5" fill-opacity=".12" stroke="#9AABF5" stroke-opacity=".55" stroke-width="1.5"/>
+      <path d="M823 199L968 116L1113 199L968 282L823 199Z" fill="#70DDD0" fill-opacity=".09" stroke="#70DDD0" stroke-opacity=".5" stroke-width="1.5"/>
+      <path d="M823 153L968 70L1113 153L968 236L823 153Z" fill="url(#plane)" stroke="#70DDD0" stroke-width="1.8"/>
+      <path d="M855 153L968 89L1081 153L968 218L855 153Z" stroke="#70DDD0" stroke-opacity=".24"/>
+      <path d="M902 153L968 115L1034 153L968 191L902 153Z" fill="#70DDD0" fill-opacity=".07" stroke="#70DDD0" stroke-opacity=".45"/>
+      <path d="M968 132L1004 153L968 174L932 153L968 132Z" fill="#70DDD0" fill-opacity=".16" stroke="#70DDD0" stroke-width="1.5"/>
+      <path d="M968 141L989 153L968 165L947 153L968 141Z" fill="#70DDD0"/>
+      <path d="M968 236V328M823 153V245M1113 153V245" stroke="#A3C1CC" stroke-opacity=".45" stroke-dasharray="3 6"/>
+    </g>
+    <g stroke-width="1.5" stroke-linecap="round">
+      <path d="M1041 111L1109 72V53" stroke="#70DDD0"/>
+      <path d="M1113 199L1173 234V274" stroke="#70DDD0" stroke-opacity=".7"/>
+      <path d="M895 286L794 344H745" stroke="#9AABF5"/>
+    </g>
+    <g fill="#0C2935" stroke-width="2">
+      <circle cx="1041" cy="111" r="4" stroke="#70DDD0"/>
+      <circle cx="1113" cy="199" r="4" stroke="#70DDD0"/>
+      <circle cx="895" cy="286" r="4" stroke="#9AABF5"/>
+    </g>
+    <g fill="#A3C1CC" font-family="Verdana, sans-serif" font-size="12" letter-spacing="1.8">
+      <text x="1067" y="37">AGENTS</text>
+      <text x="1152" y="300">APPS</text>
+      <text x="738" y="326">STORIES</text>
+    </g>
+    <circle cx="1109" cy="53" r="3" fill="#70DDD0"/>
+    <circle cx="1173" cy="274" r="3" fill="#70DDD0"/>
+    <circle cx="745" cy="344" r="3" fill="#9AABF5"/>
+  </g>
+  <rect x=".75" y=".75" width="1278.5" height="382.5" rx="20" stroke="#294B59" stroke-width="1.5"/>
+</svg>
